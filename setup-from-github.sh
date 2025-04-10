@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Clone Private Deployment Scripts First ---
-PRIVATE_DEPLOY_REPO="git@github.com:asher8luca/support-deployer-site.git"
+PRIVATE_DEPLOY_REPO="git@github.com:splonx55/support-deployer-site.git"
 DEPLOY_DIR="support-deployer-site"
 
 # Clone or pull the latest version
